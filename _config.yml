@@ -27,7 +27,7 @@ url: "https://jnatale11.github.io" # the base hostname & protocol for your site,
 github_username:  jnatale11
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
