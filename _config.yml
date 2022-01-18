@@ -22,8 +22,8 @@ title: Jason Natale
 email: nah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place for sharing
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://jnatale11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/site" # the subpath of your site, e.g. /blog
+url: "https://jnatale11.github.io" # the base hostname & protocol for your site, http://example.com
 github_username:  jnatale11
 
 # Build settings
